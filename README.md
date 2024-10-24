@@ -43,7 +43,7 @@ Installation and Setup
   - Git (optional, for cloning)
 
 ### Step 1: Clone the Repository
-    git clone https://github.com/yourusername/EzyMetrics-Backend.git
+    git clone https://github.com/Pratik-Sharma-Dev/Backend-for-EzyMetrics.git
     cd EzyMetrics-Backend
 
 ### Step 2: Install Dependencies
